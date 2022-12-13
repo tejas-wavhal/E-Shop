@@ -1,0 +1,95 @@
+.wrap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 64px;
+}
+
+.price {
+    color: blue;
+}
+
+.svgItems {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+    position: relative;
+    left: -17px;
+}
+
+.svgItemsChild {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.btns button {
+    background-color: #ff000000;
+    border: 0px;
+    font-size: 25px;
+}
+
+.btnColors {
+    margin: 8px;
+    border: 80px;
+    height: 20px;
+    width: 20px;
+    border-radius: 100px;
+    opacity: 0.5;
+}
+
+.btnColors:hover {
+    opacity: 1;
+}
+
+.tick {
+    color: white;
+    display: flex;
+    position: relative;
+    left: -3px;
+}
+
+.active {
+    opacity: 1;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.products {
+    width: 75%;
+}
+
+.filter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@media only screen and (max-width : 777px) {
+    .wrap {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .flex {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .filter-data {
+        width: 90%;
+        margin-top: 50px;
+    }
+
+    .products {
+        width: 100%;
+    }
+}

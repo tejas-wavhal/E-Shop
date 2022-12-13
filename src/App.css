@@ -1,0 +1,8 @@
+@media only screen and (max-width : 770px) {
+  .slider{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}

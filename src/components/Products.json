@@ -1,0 +1,66 @@
+﻿[
+    {
+        "name": "ASUS ROG Strix Scar",
+        "discription": "ASUS ROG Strix Scar 17 SE (2022), 17.3 43.94 cm WQHD 240Hz/3ms Intel Core i9-12950HX 12th Gen, 16GB RTX 3080 Ti, Gaming Laptop (32GB/2TB SSD/Windows 11/Office 2021/Stealth/3 Kg), G733CX-LL013WS",
+        "brand": "asus",
+        "category": "laptop",
+        "price": 79999,
+        "img": "https://m.media-amazon.com/images/I/711DhM7I+4L.jpg"
+    },
+    {
+        "name": "ASUS Zenbook Pro 14 Duo",
+        "discription": "(36.83 cms) 2.8K OLED 120Hz Touch, Intel EVO Core i7 12th Gen, Dual Screen Laptop, (16GB/1TB SSD/Windows 11/Office 2021/Black/1.7 Kg), UX8402ZA-LM711WS",
+        "brand": "asus",
+        "category": "laptop ",
+        "price": 90000,
+        "img": "https://m.media-amazon.com/images/I/71QZ23O7rmL.jpg"
+    },
+    {
+        "name": "iphone 11",
+        "discription": "Shoot 4K videos, beautiful portraits, and sweeping landscapes with the all-new dual-camera system. Capture your best low-light photos with Night mode. See true-to-life color in your photos, videos, and games on the 6.1-inch (15.5 cm diagonal) Liquid Retina display. Experience unprecedented performance with A13 Bionic for gaming, augmented reality (AR), and photography. Do more and charge less with all-day battery life. And worry less with water resistance up to 2 meters for 30 minutes.",
+        "brand": "apple",
+        "category": "mobile",
+        "price": 54000,
+        "img": "https://m.media-amazon.com/images/I/71Rv6QepJJL._AC_SL1500_.jpg"
+    },
+    {
+        "name": "iPhone 13",
+        "discription": "iPhone 13. The most advanced dual-camera system ever on iPhone. Lightning-fast A15 Bionic chip. A big leap in battery life. Durable design. And a brighter Super Retina XDR display.",
+        "brand": "apple",
+        "category": "mobile",
+        "price": 95000,
+        "img": "https://m.media-amazon.com/images/I/61iTWldZ9qL._AC_SL1500_.jpg"
+    },
+    {
+        "name": "Apple Macbook Air",
+        "discription": "Apple's thinnest and lightest notebook gets supercharged with the Apple M1 chip. Tackle your projects with the blazing-fast 8-core CPU. Take graphics-intensive apps and games to the next level with an up to 8-core GPU. And accelerate machine learning tasks with the 16-core Neural Engine. All with a silent, fanless design and the longest battery life ever—up to 18 hours. MacBook Air. Still perfectly portable. Just a lot more powerful.",
+        "brand": "apple",
+        "category": "laptop",
+        "price": 87000,
+        "img": "https://www.amazon.in/Apple-MacBook-Chip-13-inch-256GB/dp/B08N5XSG8Z/ref=mp_s_a_1_1_sspa?keywords=MacBook&qid=1667466616&qu=eyJxc2MiOiI1LjAyIiwicXNhIjoiNC42NiIsInFzcCI6IjMuNTQifQ%3D%3D&s=electronics&sr=1-1-spons&psc=1#immersive-view_1667466701695"
+    },
+    {
+        "name": "Apple Watch SE",
+        "discription": "With powerful features to help keep you connected, active, healthy and safe, Apple Watch SE is a lot of watch. For a lot less than you expected.",
+        "brand": "apple",
+        "category": "watch",
+        "price": 24000,
+        "img": "https://m.media-amazon.com/images/I/71YAsNWuoPL._SX679_.jpg"
+    },
+    {
+        "name": "Noice Colorfit 3",
+        "discription": "Smart Watch with Smart Call & Advanced Bluetooth Tech, Display, Noise Health Suite, 150+ Cloud Watch Face, 100 Sports Mode with Auto Detection, Longer Battery (Jet Black)",
+        "brand": "noice",
+        "category": "watch",
+        "price": 2999,
+        "img": "https://m.media-amazon.com/images/I/61akt30bJsL._AC_SL1500_.jpg"
+    },
+    {
+        "name": "OnePlus Nord CE2",
+        "discription": "OnePlus Nord CE 2 5G (Bahamas Blue,8GB RAM, 128GB Storage)",
+        "brand": "onePlus",
+        "category": "mobile",
+        "price": 18000,
+        "img": "https://m.media-amazon.com/images/I/61+Q6Rh3OQL.jpg"
+    }
+]
